@@ -47,9 +47,6 @@ ffmpeg.exe -y -i "rtmp://200.255.1.111:1935/vod/_definst_/mp4:/ASP00001/2020/20/
 ### 기타 문제 해결
 * 폴더 구조
 <img src="/Images/directory.png">  
-
-* youtube 영상인 경우 유튜브주소 앞에 ss 넣기.  
-  www . youtube . com/watch?v=XpPH6C0jbik -> www . **ss**youtube .com/watch?v=XpPH6C0jbik  
 * 자동으로 출석 시간을 채워주지는 않습니다.
 
 ### Disclaimer
