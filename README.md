@@ -32,7 +32,7 @@ ffmpeg.exe -y -i "rtmp://200.255.1.111:1935/vod/_definst_/mp4:/ASP00001/2020/20/
 4. 메모장 파일을 `원하는이름.bat`으로 저장합니다.
 
 ### 실행
-1. 작성한 bat 파일을 다운로드 받은 [ffmpeg 파일](https://github.com/yoolisel/download-rtmp-video-by-ffmpeg/raw/master/ffmpeg.exe)과 같은 경로에 둡니다.  
+1. 작성한 bat 파일을 다운로드 받은 ffmpeg 파일([다운로드](https://github.com/yoolisel/download-rtmp-video-by-ffmpeg/raw/master/ffmpeg.exe))과 같은 경로에 둡니다.  
 2. bat 파일을 더블클릭해 실행합니다.  
 3. 다운로드가 되기를 기다립니다.  
   
@@ -47,6 +47,7 @@ ffmpeg.exe -y -i "rtmp://200.255.1.111:1935/vod/_definst_/mp4:/ASP00001/2020/20/
 * 자동으로 출석 시간을 채워주지는 않습니다.  
 * 폴더 구조  
 ![Images2](Images/directory.png)  
+  
   
 ### Disclaimer
 - 영상의 저작권은 영상 제공자에게 있고, 무단 사용으로 발생하는 모든 문제는 사용자에게 있습니다.
